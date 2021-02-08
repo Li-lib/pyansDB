@@ -1,5 +1,3 @@
-# pyansDB
-Learning to track my code
 # pyansDB (Project Title)
 
 Learning about Python and Ansible code!
