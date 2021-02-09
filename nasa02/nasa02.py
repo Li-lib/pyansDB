@@ -4,9 +4,9 @@ import json
 
 ## Define NEOapi 
 neourl = 'https://api.nasa.gov/neo/rest/v1/feed?'
-startdate = 'start_date=2018-06-01'
+startdate = 'start_date=2021-02-07'
 enddate = '&end_date=END_DATE'
-mykey = '&api_key=DEMO_KEY'    ## your key goes in place of DEMO_KEY
+mykey = '&api_key=FBMTDIoxDeBhHjcCdemRRdAYMMlRYC3baoN9Kvf9'    ## your key goes in place of DEMO_KEY
 
 neourl = neourl + startdate + mykey
 
