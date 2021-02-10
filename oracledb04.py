@@ -5,7 +5,7 @@ import cx_Oracle
 
 try:
     # Connect string format: [username]/[password]@//[hostname]:[port]/[DB service name]
-    con = cx_Oracle.connect("system/mysecurepassword@//localhost:1521/XEPDB1")
+    con = cx_Oracle.connect("system/mysecurepassword@//10.5.19.206:51521/XEPDB1")
 
     # Now execute the sqlquery 
     cursor = con.cursor()
